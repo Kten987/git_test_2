@@ -1,1 +1,45 @@
-code sql
+# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()
+
+# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()# 2. Chose the right model and hyper-parameters
+
+from sklearn.ensemble import RandomForestClassifier
+
+clf = RandomForestClassifier() #clf = classifer
+
+# We'll keep the default hyper-parametters
+clf.get_params()
