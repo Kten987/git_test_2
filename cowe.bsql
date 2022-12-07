@@ -20,15 +20,9 @@ from sklearn.ensemble import RandomForestClassifier
 
 clf = RandomForestClassifier() #clf = classifer
 
-# We'll keep the default hyper-parametters
-clf.get_params()# 2. Chose the right model and hyper-parameters
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
-from sklearn.ensemble import RandomForestClassifier
-
-clf = RandomForestClassifier() #clf = classifer
-
-# We'll keep the default hyper-parametters
-clf.get_params()# 2. Chose the right model and hyper-parameters
+print(classification_report(y_test, y_preds))
 
 from sklearn.ensemble import RandomForestClassifier
 
